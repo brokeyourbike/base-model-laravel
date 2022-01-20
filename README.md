@@ -24,9 +24,9 @@ composer require brokeyourbike/base-models
 ## Usage
 
 ```php
-use BrokeYourBike\BaseModels\Base;
+use BrokeYourBike\BaseModels\BaseUuid;
 
-class ExampleModels extends Base {}
+class ExampleModels extends BaseUuid {}
 ```
 
 ## License
