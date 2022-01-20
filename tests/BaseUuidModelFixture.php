@@ -8,6 +8,6 @@
 
 namespace BrokeYourBike\BaseModels\Tests;
 
-use BrokeYourBike\BaseModels\Base;
+use BrokeYourBike\BaseModels\BaseUuid;
 
-class BaseModelFixture extends Base {}
+class BaseUuidModelFixture extends BaseUuid {}

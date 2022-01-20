@@ -11,7 +11,7 @@ namespace BrokeYourBike\BaseModels;
 use Illuminate\Database\Eloquent\Model;
 use GoldSpecDigital\LaravelEloquentUUID\Database\Eloquent\Uuid;
 
-abstract class Base extends Model
+abstract class BaseUuid extends Model
 {
     use Uuid;
 
