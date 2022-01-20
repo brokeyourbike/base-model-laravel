@@ -37,4 +37,32 @@ class BaseTest extends \Orchestra\Testbench\TestCase
         $parent = get_parent_class(Base::class);
         $this->assertSame(Model::class, $parent);
     }
+
+    /** @test */
+    public function it_uses_milliseconds_in_date_format()
+    {
+        $model = new BaseModelFixture();
+        $this->assertSame('Y-m-d H:i:s.u', $model->getDateFormat());
+    }
+
+    /** @test */
+    public function it_has_string_key_type()
+    {
+        $model = new BaseModelFixture();
+        $this->assertSame('string', $model->getKeyType());
+    }
+
+    /** @test */
+    public function it_uses_not_incrementing_ids()
+    {
+        $model = new BaseModelFixture();
+        $this->assertSame(false, $model->getIncrementing());
+    }
+
+    /** @test */
+    public function it_does_not_guard_attributes_by_default()
+    {
+        $model = new BaseModelFixture();
+        $this->assertSame([], $model->getGuarded());
+    }
 }

@@ -35,4 +35,11 @@ abstract class Base extends Model
      * @var bool
      */
     public $incrementing = false;
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array<string>|bool
+     */
+    protected $guarded = [];
 }
