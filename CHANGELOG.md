@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.1.0...v0.2.0) (2022-01-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* rename the model
+
+### Bug Fixes
+
+* rename the model ([b696636](https://www.github.com/brokeyourbike/base-models-laravel/commit/b696636b33bdbeb4bbfff7f94ddec2f9cc096965))
+
+
+### Miscellaneous Chores
+
+* update example ([a2cfb20](https://www.github.com/brokeyourbike/base-models-laravel/commit/a2cfb2044eb0e5e35fd78646871e8b03616f0e2c))
+
 ## 0.1.0 (2022-01-20)
 
 
