@@ -21,5 +21,13 @@ I am using this abstract class in most of my apps, and I always have to cover it
 composer require brokeyourbike/base-models
 ```
 
+## Usage
+
+```php
+use BrokeYourBike\BaseModels\Base;
+
+class ExampleModels extends Base {}
+```
+
 ## License
 [Mozilla Public License v2.0](https://github.com/brokeyourbike/base-models-laravel/blob/main/LICENSE)
