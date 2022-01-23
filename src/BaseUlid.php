@@ -9,11 +9,11 @@
 namespace BrokeYourBike\BaseModels;
 
 use Illuminate\Database\Eloquent\Model;
-use BrokeYourBike\UidKeys\Database\Eloquent\Uuid;
+use BrokeYourBike\UidKeys\Database\Eloquent\Ulid;
 
-abstract class BaseUuid extends Model
+abstract class BaseUlid extends Model
 {
-    use Uuid;
+    use Ulid;
 
     /**
      * Format for the model date attributes.
