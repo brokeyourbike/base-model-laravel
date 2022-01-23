@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.2.0...v0.3.0) (2022-01-23)
+
+
+### Features
+
+* add `BaseUlid` ([eb90178](https://www.github.com/brokeyourbike/base-models-laravel/commit/eb901780234a0be324b0bc8bd583ab00a3a65d47))
+
+
+### Miscellaneous Chores
+
+* badges ([dad9281](https://www.github.com/brokeyourbike/base-models-laravel/commit/dad9281f6ab2dc0db50231d38d35a76a4b21a23b))
+
 ## [0.2.0](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.1.0...v0.2.0) (2022-01-20)
 
 
