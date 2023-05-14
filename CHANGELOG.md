@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.3.1](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.3.0...v0.3.1) (2023-05-14)
+
+
+### Miscellaneous Chores
+
+* badges ([b60e957](https://www.github.com/brokeyourbike/base-models-laravel/commit/b60e95789739ddefd4866b99757809f0b0136a80))
+* no test coverage anyway ([3eb5470](https://www.github.com/brokeyourbike/base-models-laravel/commit/3eb54701f5dccbe3ea667fc1dee88e8e053bc59d))
+
 ## [0.3.0](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.2.0...v0.3.0) (2022-01-23)
 
 
