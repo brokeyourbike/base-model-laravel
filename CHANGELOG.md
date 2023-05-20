@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.2](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.3.1...v0.3.2) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([4ca19b1](https://www.github.com/brokeyourbike/base-models-laravel/commit/4ca19b1889b627ca8ad2384dea0476c4db4f786a))
+
 ### [0.3.1](https://www.github.com/brokeyourbike/base-models-laravel/compare/v0.3.0...v0.3.1) (2023-05-14)
 
 
